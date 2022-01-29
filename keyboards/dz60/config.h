@@ -56,3 +56,7 @@
 
 /* VIA related config */
 #define VIA_EEPROM_LAYOUT_OPTIONS_SIZE 2
+
+/* User Settings */
+/* Modify default repeated presses to toggle from 5 to 2 */
+#define TAPPING_TOGGLE 2
